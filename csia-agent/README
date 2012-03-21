@@ -1,1 +1,1 @@
-Put csia binary in same folder as Makefile, run make pkg and distribute the package with our favorite tool, like ARD http://www.apple.com/remotedesktop/ or munki code.google.com/p/munki/
+Put csia binary in same folder as Makefile, run make pkg and distribute the package with our favorite tool, like ARD http://www.apple.com/remotedesktop/ or munki http://code.google.com/p/munki/
