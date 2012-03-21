@@ -1,0 +1,3 @@
+#!/bin/bash
+/usr/bin/csia -i 1D -L --skip-wait
+exit 0
